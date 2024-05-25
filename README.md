@@ -1,4 +1,4 @@
-![image](https://github.com/LahariPriya0826/Cognizant-AI-Job-Simulation-on-Forage/assets/147991453/3d487129-6bd0-4fed-8ff3-3c8770464745)
+![image](https://github.com/LahariPriya0826/Cognizant-AI-Job-Simulation-on-Forage/assets/147991453/a6ebba54-4380-4455-940f-9a107bd66a71)
 
 
 
