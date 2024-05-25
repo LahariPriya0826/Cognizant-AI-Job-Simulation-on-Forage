@@ -1,3 +1,12 @@
+![image](https://github.com/LahariPriya0826/Cognizant-AI-Job-Simulation-on-Forage/assets/147991453/3d487129-6bd0-4fed-8ff3-3c8770464745)
+
+
+
+
+
+
+
+
 # Cognizant-AI-Job-Simulation-on-Forage
 
 Task One: Exploratory Data Analysis
