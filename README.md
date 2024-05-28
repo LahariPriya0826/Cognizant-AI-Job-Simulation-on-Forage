@@ -35,6 +35,8 @@ Check out the simulation here: https://www.theforage.com/simulations/cognizant/a
 
 
 Certificate:
+
+
 ![image](https://github.com/LahariPriya0826/Cognizant-AI-Job-Simulation-on-Forage/assets/147991453/d3d1eec2-d99d-412f-8288-43de5a1f74b2)
 
 
