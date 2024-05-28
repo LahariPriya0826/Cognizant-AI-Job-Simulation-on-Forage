@@ -27,3 +27,7 @@ Task Three: Model Building and Interpretation
 Task Four: Machine Learning Production.
 
 
+
+
+Check out the simulation here: https://www.theforage.com/simulations/cognizant/artificial-intelligence-rtbq
+
